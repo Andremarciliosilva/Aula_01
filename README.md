@@ -1,6 +1,7 @@
 **Aula 01**
    
 Esse repositório tem por finalidade publicar os exercícios realizados na Aula 01 do Bootcamp de Python da Jornada de Dados, e também de praticar a utilização do Github.
+Obs. Caso queira reproduzir esses exercícios na sua máquina, o único requisito é o python (testado na versão 3.12.1).
 
 Primeira proposta do exercício (arquivo desafio.py):
 
@@ -12,7 +13,7 @@ Primeira proposta do exercício (arquivo desafio.py):
 
  ![ texto](kpi.png)
 
-Segunda proposta de exercício:
+Segunda proposta de exercício (arquivo desafio_1.py):
 
 Analisar possíveis erros que o programa pode gerar e corrigí-los.
 
