@@ -1,0 +1,1 @@
+Esses repositório tem por finalidade publicar os exercícios praticados em aula do Bootcamp de Python da Jornada de Dados, e também de praticar a utilização do Github.
