@@ -8,7 +8,8 @@ Primeira proposta do exercício (arquivo desafio.py):
 2. Solicitar ao usuário que digite o valor do seu salário e converter a entrada para ponto flutuante.
 3. Solicitar ao usuário que digite o valor do bônus e converte a entrada para ponto flutuante.
 4. Calcular o valor do bônus final que será 1000 + valor do salário * valor do bônus.
+
+
  ![ texto](kpi.png)
 
 Segunda proposta de exercício:
-
