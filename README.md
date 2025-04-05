@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Aula 01**
    
 Esse repositório tem por finalidade publicar os exercícios realizados na Aula 01 do Bootcamp de Python da Jornada de Dados, e também de praticar a utilização do Github.
