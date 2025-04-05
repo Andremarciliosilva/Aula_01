@@ -1,5 +1,5 @@
 
-# Solicita ao usuário que dige seu nome
+# Solicita ao usuário que digite seu nome
 
 while True:
     usuario = input("Digite o seu nome: ")
