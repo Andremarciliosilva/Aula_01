@@ -4,7 +4,7 @@ Esse repositório tem por finalidade publicar os exercícios realizados na Aula 
 
 Primeira proposta do exercício (arquivo desafio.py):
 
-1. Solicitar ao usuário que digite o seu nome e converter a entrada para ponto flutuante.
+1. Solicitar ao usuário que digite o seu nome.
 2. Solicitar ao usuário que digite o valor do seu salário e converter a entrada para ponto flutuante.
 3. Solicitar ao usuário que digite o valor do bônus e converte a entrada para ponto flutuante.
 4. Calcular o valor do bônus final que será 1000 + valor do salário * valor do bônus.
@@ -14,4 +14,8 @@ Primeira proposta do exercício (arquivo desafio.py):
 
 Segunda proposta de exercício:
 
+Analisar possíveis erros que o programa pode gerar e corrigí-los.
 
+1. Digitar números no lugar do nome.
+2. Digitar letras no campo do valor do salário.
+3. Digitar letras no campo do valor do bônus.
