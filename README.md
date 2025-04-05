@@ -19,3 +19,4 @@ Analisar possíveis erros que o programa pode gerar e corrigí-los.
 1. Digitar números no lugar do nome.
 2. Digitar letras no campo do valor do salário.
 3. Digitar letras no campo do valor do bônus.
+5. Se o usuário não digitar nada e pressionar enter, deve solicitar a respectiva entrada novamente.
